@@ -3,7 +3,7 @@
 This project demonstrates how to train a simple linear regression model in Rust using a CSV dataset, save the model parameters to a JSON file, and use Python to load the model and make predictions.
 
 ## Project Structure
-
+```
 Linear_Regression/
 │
 ├── housing.csv
@@ -12,7 +12,7 @@ Linear_Regression/
 │ └── src/
 │ └── main.rs
 └── predict.py
-
+```
 
 ## Requirements
 
